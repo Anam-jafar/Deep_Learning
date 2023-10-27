@@ -13,6 +13,8 @@ Process followed :
       - Lasso Regression  || R2 : 88.
       - Random Forest Regression  || R2 : 88.
       - Gradient Boosting regression  || R2 : 88.
+
+
   |  Models | R2(test) | CV Score(mean) |
 | -------- | -------  | -------  |
 | LinearRegression | 0.85 | 0.85 |
