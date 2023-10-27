@@ -8,14 +8,8 @@ Process followed :
 - Label Encoding
 - Feature Transform
 - Models Used :
-      - Linear Regression || R2 : 88.
-      - Ridge Regression  || R2 : 88.
-      - Lasso Regression  || R2 : 88.
-      - Random Forest Regression  || R2 : 88.
-      - Gradient Boosting regression  || R2 : 88.
-
-
-  |  Models | R2(test) | CV Score(mean) |
-| -------- | -------  | -------  |
-| LinearRegression | 0.85 | 0.85 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+      - Linear Regression || R2 : .85
+      - Ridge Regression  || R2 : .85
+      - Lasso Regression  || R2 : .85
+      - Random Forest Regression  || R2 : .97
+      - Gradient Boosting regression  || R2 : .97
